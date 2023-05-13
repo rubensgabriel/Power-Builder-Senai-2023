@@ -1,0 +1,24 @@
+Save Format v3.0(19990112)
+@begin Targets
+ 0 "Testes\\testes.pbt";
+ 10 "Modulo07\\modulo07.pbt";
+ 1 "Exerc\u00edcio 1\\exercicio1.pbt";
+ 11 "Modulo08\\modulo08.pbt";
+ 2 "Modulo01\\modulo01.pbt";
+ 12 "Modulo09\\modulo09.pbt";
+ 3 "Modulo02\\modulo02.pbt";
+ 13 "Modulo10\\modulo10.pbt";
+ 4 "Modulo03\\modulo03.pbt";
+ 14 "Eleicao\\eleicao.pbt";
+ 5 "Modulo04\\modulo04.pbt";
+ 15 "Modulo11\\modulo11.pbt";
+ 6 "Modulo05\\modulo05.pbt";
+ 16 "Modulo12\\modulo12.pbt";
+ 7 "Modulo05b\\modulo05b.pbt";
+ 17 "Modulo13\\modulo13.pbt";
+ 8 "CRUD\\crud.pbt";
+ 18 "Modulo14b\\modulo14b.pbt";
+ 9 "Modulo06\\modulo06.pbt";
+@end;
+DefaultTarget "Modulo13\\modulo13.pbt";
+DefaultRemoteTarget "Modulo13\\modulo13.pbt";
